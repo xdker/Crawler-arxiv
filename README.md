@@ -13,7 +13,7 @@ https://arxiv.org/list/cs.AI/15		这个网址不能通过翻页来完成
 当爬取诸如 https://arxiv.org/list/cs.LG/17 的时候，该网站上有5209条记录，所以页面是不提供all按钮的
 
 # 2018.8.29漏洞
-![1](C:\Users\zhangzhongjun\Downloads\Crawler-arxiv\imgs\1.png)
+![1](./imgs/1.png)
 
 漏洞原因：部分网站是最后一页只有一个页码，这样在利用“-”分割之后，会把100和3267粘连在一起
 
@@ -23,4 +23,4 @@ https://arxiv.org/list/cs.AI/15		这个网址不能通过翻页来完成
 
 # 爬虫流程图
 
-![流程图](C:\Users\zhangzhongjun\Downloads\Crawler-arxiv\imgs\流程图.png)
+![流程图](./imgs/流程图.png)
