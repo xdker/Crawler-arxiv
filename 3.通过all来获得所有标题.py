@@ -19,8 +19,9 @@ if __name__ == "__main__":
 
         link = line.strip().split("|")[0]
         name = line.strip().split("|")[1]
+        year = link.split("/")[-1]
 
-        print("begin crawl "+name)
+        print("begin crawl {}_{}".format(name,year))
 
         res = requests.get(link,timeout=10)
         soup = BeautifulSoup(res.text,'html.parser')
@@ -34,9 +35,9 @@ if __name__ == "__main__":
         for title in titles:
             allPapers.append(title.text.replace("Title:","").strip()+"\r\n")
 
-        f = codecs.open('./data/2.'+name+'.txt','w','utf-8')
-        lines = f.writelines(allPapers)
+        f = codecs.open('./data/2.{}_{}.txt'.format(name,year),'w','utf-8')
+        f.writelines(allPapers)
         f.close()
 
-        print("crawl end "+name)
+        print("crawl end {}_{} we got {} titles".format(name,year,len(allPapers)))
         print()

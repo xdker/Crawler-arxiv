@@ -1,0 +1,1000 @@
+https://arxiv.org/list/cs.AI/93|Artificial Intelligence
+https://arxiv.org/list/cs.CL/93|Computation and Language
+https://arxiv.org/list/cs.CC/93|Computational Complexity
+https://arxiv.org/list/cs.CE/93|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/93|Computational Geometry
+https://arxiv.org/list/cs.GT/93|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/93|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/93|Computers and Society
+https://arxiv.org/list/cs.CR/93|Cryptography and Security
+https://arxiv.org/list/cs.DS/93|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/93|Databases
+https://arxiv.org/list/cs.DL/93|Digital Libraries
+https://arxiv.org/list/cs.DM/93|Discrete Mathematics
+https://arxiv.org/list/cs.DC/93|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/93|Emerging Technologies
+https://arxiv.org/list/cs.FL/93|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/93|General Literature
+https://arxiv.org/list/cs.GR/93|Graphics
+https://arxiv.org/list/cs.AR/93|Hardware Architecture
+https://arxiv.org/list/cs.HC/93|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/93|Information Retrieval
+https://arxiv.org/list/cs.IT/93|Information Theory
+https://arxiv.org/list/cs.LO/93|Logic in Computer Science
+https://arxiv.org/list/cs.LG/93|Machine Learning
+https://arxiv.org/list/cs.MS/93|Mathematical Software
+https://arxiv.org/list/cs.MA/93|Multiagent Systems
+https://arxiv.org/list/cs.MM/93|Multimedia
+https://arxiv.org/list/cs.NI/93|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/93|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/93|Numerical Analysis
+https://arxiv.org/list/cs.OS/93|Operating Systems
+https://arxiv.org/list/cs.OH/93|Other Computer Science
+https://arxiv.org/list/cs.PF/93|Performance
+https://arxiv.org/list/cs.PL/93|Programming Languages
+https://arxiv.org/list/cs.RO/93|Robotics
+https://arxiv.org/list/cs.SI/93|Social and Information Networks
+https://arxiv.org/list/cs.SE/93|Software Engineering
+https://arxiv.org/list/cs.SD/93|Sound
+https://arxiv.org/list/cs.SC/93|Symbolic Computation
+https://arxiv.org/list/cs.SY/93|Systems and Control
+https://arxiv.org/list/cs.AI/94|Artificial Intelligence
+https://arxiv.org/list/cs.CL/94|Computation and Language
+https://arxiv.org/list/cs.CC/94|Computational Complexity
+https://arxiv.org/list/cs.CE/94|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/94|Computational Geometry
+https://arxiv.org/list/cs.GT/94|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/94|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/94|Computers and Society
+https://arxiv.org/list/cs.CR/94|Cryptography and Security
+https://arxiv.org/list/cs.DS/94|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/94|Databases
+https://arxiv.org/list/cs.DL/94|Digital Libraries
+https://arxiv.org/list/cs.DM/94|Discrete Mathematics
+https://arxiv.org/list/cs.DC/94|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/94|Emerging Technologies
+https://arxiv.org/list/cs.FL/94|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/94|General Literature
+https://arxiv.org/list/cs.GR/94|Graphics
+https://arxiv.org/list/cs.AR/94|Hardware Architecture
+https://arxiv.org/list/cs.HC/94|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/94|Information Retrieval
+https://arxiv.org/list/cs.IT/94|Information Theory
+https://arxiv.org/list/cs.LO/94|Logic in Computer Science
+https://arxiv.org/list/cs.LG/94|Machine Learning
+https://arxiv.org/list/cs.MS/94|Mathematical Software
+https://arxiv.org/list/cs.MA/94|Multiagent Systems
+https://arxiv.org/list/cs.MM/94|Multimedia
+https://arxiv.org/list/cs.NI/94|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/94|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/94|Numerical Analysis
+https://arxiv.org/list/cs.OS/94|Operating Systems
+https://arxiv.org/list/cs.OH/94|Other Computer Science
+https://arxiv.org/list/cs.PF/94|Performance
+https://arxiv.org/list/cs.PL/94|Programming Languages
+https://arxiv.org/list/cs.RO/94|Robotics
+https://arxiv.org/list/cs.SI/94|Social and Information Networks
+https://arxiv.org/list/cs.SE/94|Software Engineering
+https://arxiv.org/list/cs.SD/94|Sound
+https://arxiv.org/list/cs.SC/94|Symbolic Computation
+https://arxiv.org/list/cs.SY/94|Systems and Control
+https://arxiv.org/list/cs.AI/95|Artificial Intelligence
+https://arxiv.org/list/cs.CL/95|Computation and Language
+https://arxiv.org/list/cs.CC/95|Computational Complexity
+https://arxiv.org/list/cs.CE/95|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/95|Computational Geometry
+https://arxiv.org/list/cs.GT/95|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/95|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/95|Computers and Society
+https://arxiv.org/list/cs.CR/95|Cryptography and Security
+https://arxiv.org/list/cs.DS/95|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/95|Databases
+https://arxiv.org/list/cs.DL/95|Digital Libraries
+https://arxiv.org/list/cs.DM/95|Discrete Mathematics
+https://arxiv.org/list/cs.DC/95|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/95|Emerging Technologies
+https://arxiv.org/list/cs.FL/95|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/95|General Literature
+https://arxiv.org/list/cs.GR/95|Graphics
+https://arxiv.org/list/cs.AR/95|Hardware Architecture
+https://arxiv.org/list/cs.HC/95|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/95|Information Retrieval
+https://arxiv.org/list/cs.IT/95|Information Theory
+https://arxiv.org/list/cs.LO/95|Logic in Computer Science
+https://arxiv.org/list/cs.LG/95|Machine Learning
+https://arxiv.org/list/cs.MS/95|Mathematical Software
+https://arxiv.org/list/cs.MA/95|Multiagent Systems
+https://arxiv.org/list/cs.MM/95|Multimedia
+https://arxiv.org/list/cs.NI/95|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/95|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/95|Numerical Analysis
+https://arxiv.org/list/cs.OS/95|Operating Systems
+https://arxiv.org/list/cs.OH/95|Other Computer Science
+https://arxiv.org/list/cs.PF/95|Performance
+https://arxiv.org/list/cs.PL/95|Programming Languages
+https://arxiv.org/list/cs.RO/95|Robotics
+https://arxiv.org/list/cs.SI/95|Social and Information Networks
+https://arxiv.org/list/cs.SE/95|Software Engineering
+https://arxiv.org/list/cs.SD/95|Sound
+https://arxiv.org/list/cs.SC/95|Symbolic Computation
+https://arxiv.org/list/cs.SY/95|Systems and Control
+https://arxiv.org/list/cs.AI/96|Artificial Intelligence
+https://arxiv.org/list/cs.CL/96|Computation and Language
+https://arxiv.org/list/cs.CC/96|Computational Complexity
+https://arxiv.org/list/cs.CE/96|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/96|Computational Geometry
+https://arxiv.org/list/cs.GT/96|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/96|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/96|Computers and Society
+https://arxiv.org/list/cs.CR/96|Cryptography and Security
+https://arxiv.org/list/cs.DS/96|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/96|Databases
+https://arxiv.org/list/cs.DL/96|Digital Libraries
+https://arxiv.org/list/cs.DM/96|Discrete Mathematics
+https://arxiv.org/list/cs.DC/96|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/96|Emerging Technologies
+https://arxiv.org/list/cs.FL/96|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/96|General Literature
+https://arxiv.org/list/cs.GR/96|Graphics
+https://arxiv.org/list/cs.AR/96|Hardware Architecture
+https://arxiv.org/list/cs.HC/96|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/96|Information Retrieval
+https://arxiv.org/list/cs.IT/96|Information Theory
+https://arxiv.org/list/cs.LO/96|Logic in Computer Science
+https://arxiv.org/list/cs.LG/96|Machine Learning
+https://arxiv.org/list/cs.MS/96|Mathematical Software
+https://arxiv.org/list/cs.MA/96|Multiagent Systems
+https://arxiv.org/list/cs.MM/96|Multimedia
+https://arxiv.org/list/cs.NI/96|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/96|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/96|Numerical Analysis
+https://arxiv.org/list/cs.OS/96|Operating Systems
+https://arxiv.org/list/cs.OH/96|Other Computer Science
+https://arxiv.org/list/cs.PF/96|Performance
+https://arxiv.org/list/cs.PL/96|Programming Languages
+https://arxiv.org/list/cs.RO/96|Robotics
+https://arxiv.org/list/cs.SI/96|Social and Information Networks
+https://arxiv.org/list/cs.SE/96|Software Engineering
+https://arxiv.org/list/cs.SD/96|Sound
+https://arxiv.org/list/cs.SC/96|Symbolic Computation
+https://arxiv.org/list/cs.SY/96|Systems and Control
+https://arxiv.org/list/cs.AI/97|Artificial Intelligence
+https://arxiv.org/list/cs.CL/97|Computation and Language
+https://arxiv.org/list/cs.CC/97|Computational Complexity
+https://arxiv.org/list/cs.CE/97|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/97|Computational Geometry
+https://arxiv.org/list/cs.GT/97|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/97|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/97|Computers and Society
+https://arxiv.org/list/cs.CR/97|Cryptography and Security
+https://arxiv.org/list/cs.DS/97|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/97|Databases
+https://arxiv.org/list/cs.DL/97|Digital Libraries
+https://arxiv.org/list/cs.DM/97|Discrete Mathematics
+https://arxiv.org/list/cs.DC/97|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/97|Emerging Technologies
+https://arxiv.org/list/cs.FL/97|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/97|General Literature
+https://arxiv.org/list/cs.GR/97|Graphics
+https://arxiv.org/list/cs.AR/97|Hardware Architecture
+https://arxiv.org/list/cs.HC/97|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/97|Information Retrieval
+https://arxiv.org/list/cs.IT/97|Information Theory
+https://arxiv.org/list/cs.LO/97|Logic in Computer Science
+https://arxiv.org/list/cs.LG/97|Machine Learning
+https://arxiv.org/list/cs.MS/97|Mathematical Software
+https://arxiv.org/list/cs.MA/97|Multiagent Systems
+https://arxiv.org/list/cs.MM/97|Multimedia
+https://arxiv.org/list/cs.NI/97|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/97|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/97|Numerical Analysis
+https://arxiv.org/list/cs.OS/97|Operating Systems
+https://arxiv.org/list/cs.OH/97|Other Computer Science
+https://arxiv.org/list/cs.PF/97|Performance
+https://arxiv.org/list/cs.PL/97|Programming Languages
+https://arxiv.org/list/cs.RO/97|Robotics
+https://arxiv.org/list/cs.SI/97|Social and Information Networks
+https://arxiv.org/list/cs.SE/97|Software Engineering
+https://arxiv.org/list/cs.SD/97|Sound
+https://arxiv.org/list/cs.SC/97|Symbolic Computation
+https://arxiv.org/list/cs.SY/97|Systems and Control
+https://arxiv.org/list/cs.AI/98|Artificial Intelligence
+https://arxiv.org/list/cs.CL/98|Computation and Language
+https://arxiv.org/list/cs.CC/98|Computational Complexity
+https://arxiv.org/list/cs.CE/98|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/98|Computational Geometry
+https://arxiv.org/list/cs.GT/98|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/98|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/98|Computers and Society
+https://arxiv.org/list/cs.CR/98|Cryptography and Security
+https://arxiv.org/list/cs.DS/98|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/98|Databases
+https://arxiv.org/list/cs.DL/98|Digital Libraries
+https://arxiv.org/list/cs.DM/98|Discrete Mathematics
+https://arxiv.org/list/cs.DC/98|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/98|Emerging Technologies
+https://arxiv.org/list/cs.FL/98|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/98|General Literature
+https://arxiv.org/list/cs.GR/98|Graphics
+https://arxiv.org/list/cs.AR/98|Hardware Architecture
+https://arxiv.org/list/cs.HC/98|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/98|Information Retrieval
+https://arxiv.org/list/cs.IT/98|Information Theory
+https://arxiv.org/list/cs.LO/98|Logic in Computer Science
+https://arxiv.org/list/cs.LG/98|Machine Learning
+https://arxiv.org/list/cs.MS/98|Mathematical Software
+https://arxiv.org/list/cs.MA/98|Multiagent Systems
+https://arxiv.org/list/cs.MM/98|Multimedia
+https://arxiv.org/list/cs.NI/98|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/98|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/98|Numerical Analysis
+https://arxiv.org/list/cs.OS/98|Operating Systems
+https://arxiv.org/list/cs.OH/98|Other Computer Science
+https://arxiv.org/list/cs.PF/98|Performance
+https://arxiv.org/list/cs.PL/98|Programming Languages
+https://arxiv.org/list/cs.RO/98|Robotics
+https://arxiv.org/list/cs.SI/98|Social and Information Networks
+https://arxiv.org/list/cs.SE/98|Software Engineering
+https://arxiv.org/list/cs.SD/98|Sound
+https://arxiv.org/list/cs.SC/98|Symbolic Computation
+https://arxiv.org/list/cs.SY/98|Systems and Control
+https://arxiv.org/list/cs.AI/99|Artificial Intelligence
+https://arxiv.org/list/cs.CL/99|Computation and Language
+https://arxiv.org/list/cs.CC/99|Computational Complexity
+https://arxiv.org/list/cs.CE/99|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/99|Computational Geometry
+https://arxiv.org/list/cs.GT/99|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/99|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/99|Computers and Society
+https://arxiv.org/list/cs.CR/99|Cryptography and Security
+https://arxiv.org/list/cs.DS/99|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/99|Databases
+https://arxiv.org/list/cs.DL/99|Digital Libraries
+https://arxiv.org/list/cs.DM/99|Discrete Mathematics
+https://arxiv.org/list/cs.DC/99|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/99|Emerging Technologies
+https://arxiv.org/list/cs.FL/99|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/99|General Literature
+https://arxiv.org/list/cs.GR/99|Graphics
+https://arxiv.org/list/cs.AR/99|Hardware Architecture
+https://arxiv.org/list/cs.HC/99|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/99|Information Retrieval
+https://arxiv.org/list/cs.IT/99|Information Theory
+https://arxiv.org/list/cs.LO/99|Logic in Computer Science
+https://arxiv.org/list/cs.LG/99|Machine Learning
+https://arxiv.org/list/cs.MS/99|Mathematical Software
+https://arxiv.org/list/cs.MA/99|Multiagent Systems
+https://arxiv.org/list/cs.MM/99|Multimedia
+https://arxiv.org/list/cs.NI/99|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/99|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/99|Numerical Analysis
+https://arxiv.org/list/cs.OS/99|Operating Systems
+https://arxiv.org/list/cs.OH/99|Other Computer Science
+https://arxiv.org/list/cs.PF/99|Performance
+https://arxiv.org/list/cs.PL/99|Programming Languages
+https://arxiv.org/list/cs.RO/99|Robotics
+https://arxiv.org/list/cs.SI/99|Social and Information Networks
+https://arxiv.org/list/cs.SE/99|Software Engineering
+https://arxiv.org/list/cs.SD/99|Sound
+https://arxiv.org/list/cs.SC/99|Symbolic Computation
+https://arxiv.org/list/cs.SY/99|Systems and Control
+https://arxiv.org/list/cs.AI/00|Artificial Intelligence
+https://arxiv.org/list/cs.CL/00|Computation and Language
+https://arxiv.org/list/cs.CC/00|Computational Complexity
+https://arxiv.org/list/cs.CE/00|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/00|Computational Geometry
+https://arxiv.org/list/cs.GT/00|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/00|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/00|Computers and Society
+https://arxiv.org/list/cs.CR/00|Cryptography and Security
+https://arxiv.org/list/cs.DS/00|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/00|Databases
+https://arxiv.org/list/cs.DL/00|Digital Libraries
+https://arxiv.org/list/cs.DM/00|Discrete Mathematics
+https://arxiv.org/list/cs.DC/00|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/00|Emerging Technologies
+https://arxiv.org/list/cs.FL/00|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/00|General Literature
+https://arxiv.org/list/cs.GR/00|Graphics
+https://arxiv.org/list/cs.AR/00|Hardware Architecture
+https://arxiv.org/list/cs.HC/00|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/00|Information Retrieval
+https://arxiv.org/list/cs.IT/00|Information Theory
+https://arxiv.org/list/cs.LO/00|Logic in Computer Science
+https://arxiv.org/list/cs.LG/00|Machine Learning
+https://arxiv.org/list/cs.MS/00|Mathematical Software
+https://arxiv.org/list/cs.MA/00|Multiagent Systems
+https://arxiv.org/list/cs.MM/00|Multimedia
+https://arxiv.org/list/cs.NI/00|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/00|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/00|Numerical Analysis
+https://arxiv.org/list/cs.OS/00|Operating Systems
+https://arxiv.org/list/cs.OH/00|Other Computer Science
+https://arxiv.org/list/cs.PF/00|Performance
+https://arxiv.org/list/cs.PL/00|Programming Languages
+https://arxiv.org/list/cs.RO/00|Robotics
+https://arxiv.org/list/cs.SI/00|Social and Information Networks
+https://arxiv.org/list/cs.SE/00|Software Engineering
+https://arxiv.org/list/cs.SD/00|Sound
+https://arxiv.org/list/cs.SC/00|Symbolic Computation
+https://arxiv.org/list/cs.SY/00|Systems and Control
+https://arxiv.org/list/cs.AI/01|Artificial Intelligence
+https://arxiv.org/list/cs.CL/01|Computation and Language
+https://arxiv.org/list/cs.CC/01|Computational Complexity
+https://arxiv.org/list/cs.CE/01|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/01|Computational Geometry
+https://arxiv.org/list/cs.GT/01|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/01|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/01|Computers and Society
+https://arxiv.org/list/cs.CR/01|Cryptography and Security
+https://arxiv.org/list/cs.DS/01|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/01|Databases
+https://arxiv.org/list/cs.DL/01|Digital Libraries
+https://arxiv.org/list/cs.DM/01|Discrete Mathematics
+https://arxiv.org/list/cs.DC/01|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/01|Emerging Technologies
+https://arxiv.org/list/cs.FL/01|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/01|General Literature
+https://arxiv.org/list/cs.GR/01|Graphics
+https://arxiv.org/list/cs.AR/01|Hardware Architecture
+https://arxiv.org/list/cs.HC/01|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/01|Information Retrieval
+https://arxiv.org/list/cs.IT/01|Information Theory
+https://arxiv.org/list/cs.LO/01|Logic in Computer Science
+https://arxiv.org/list/cs.LG/01|Machine Learning
+https://arxiv.org/list/cs.MS/01|Mathematical Software
+https://arxiv.org/list/cs.MA/01|Multiagent Systems
+https://arxiv.org/list/cs.MM/01|Multimedia
+https://arxiv.org/list/cs.NI/01|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/01|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/01|Numerical Analysis
+https://arxiv.org/list/cs.OS/01|Operating Systems
+https://arxiv.org/list/cs.OH/01|Other Computer Science
+https://arxiv.org/list/cs.PF/01|Performance
+https://arxiv.org/list/cs.PL/01|Programming Languages
+https://arxiv.org/list/cs.RO/01|Robotics
+https://arxiv.org/list/cs.SI/01|Social and Information Networks
+https://arxiv.org/list/cs.SE/01|Software Engineering
+https://arxiv.org/list/cs.SD/01|Sound
+https://arxiv.org/list/cs.SC/01|Symbolic Computation
+https://arxiv.org/list/cs.SY/01|Systems and Control
+https://arxiv.org/list/cs.AI/02|Artificial Intelligence
+https://arxiv.org/list/cs.CL/02|Computation and Language
+https://arxiv.org/list/cs.CC/02|Computational Complexity
+https://arxiv.org/list/cs.CE/02|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/02|Computational Geometry
+https://arxiv.org/list/cs.GT/02|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/02|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/02|Computers and Society
+https://arxiv.org/list/cs.CR/02|Cryptography and Security
+https://arxiv.org/list/cs.DS/02|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/02|Databases
+https://arxiv.org/list/cs.DL/02|Digital Libraries
+https://arxiv.org/list/cs.DM/02|Discrete Mathematics
+https://arxiv.org/list/cs.DC/02|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/02|Emerging Technologies
+https://arxiv.org/list/cs.FL/02|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/02|General Literature
+https://arxiv.org/list/cs.GR/02|Graphics
+https://arxiv.org/list/cs.AR/02|Hardware Architecture
+https://arxiv.org/list/cs.HC/02|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/02|Information Retrieval
+https://arxiv.org/list/cs.IT/02|Information Theory
+https://arxiv.org/list/cs.LO/02|Logic in Computer Science
+https://arxiv.org/list/cs.LG/02|Machine Learning
+https://arxiv.org/list/cs.MS/02|Mathematical Software
+https://arxiv.org/list/cs.MA/02|Multiagent Systems
+https://arxiv.org/list/cs.MM/02|Multimedia
+https://arxiv.org/list/cs.NI/02|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/02|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/02|Numerical Analysis
+https://arxiv.org/list/cs.OS/02|Operating Systems
+https://arxiv.org/list/cs.OH/02|Other Computer Science
+https://arxiv.org/list/cs.PF/02|Performance
+https://arxiv.org/list/cs.PL/02|Programming Languages
+https://arxiv.org/list/cs.RO/02|Robotics
+https://arxiv.org/list/cs.SI/02|Social and Information Networks
+https://arxiv.org/list/cs.SE/02|Software Engineering
+https://arxiv.org/list/cs.SD/02|Sound
+https://arxiv.org/list/cs.SC/02|Symbolic Computation
+https://arxiv.org/list/cs.SY/02|Systems and Control
+https://arxiv.org/list/cs.AI/03|Artificial Intelligence
+https://arxiv.org/list/cs.CL/03|Computation and Language
+https://arxiv.org/list/cs.CC/03|Computational Complexity
+https://arxiv.org/list/cs.CE/03|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/03|Computational Geometry
+https://arxiv.org/list/cs.GT/03|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/03|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/03|Computers and Society
+https://arxiv.org/list/cs.CR/03|Cryptography and Security
+https://arxiv.org/list/cs.DS/03|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/03|Databases
+https://arxiv.org/list/cs.DL/03|Digital Libraries
+https://arxiv.org/list/cs.DM/03|Discrete Mathematics
+https://arxiv.org/list/cs.DC/03|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/03|Emerging Technologies
+https://arxiv.org/list/cs.FL/03|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/03|General Literature
+https://arxiv.org/list/cs.GR/03|Graphics
+https://arxiv.org/list/cs.AR/03|Hardware Architecture
+https://arxiv.org/list/cs.HC/03|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/03|Information Retrieval
+https://arxiv.org/list/cs.IT/03|Information Theory
+https://arxiv.org/list/cs.LO/03|Logic in Computer Science
+https://arxiv.org/list/cs.LG/03|Machine Learning
+https://arxiv.org/list/cs.MS/03|Mathematical Software
+https://arxiv.org/list/cs.MA/03|Multiagent Systems
+https://arxiv.org/list/cs.MM/03|Multimedia
+https://arxiv.org/list/cs.NI/03|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/03|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/03|Numerical Analysis
+https://arxiv.org/list/cs.OS/03|Operating Systems
+https://arxiv.org/list/cs.OH/03|Other Computer Science
+https://arxiv.org/list/cs.PF/03|Performance
+https://arxiv.org/list/cs.PL/03|Programming Languages
+https://arxiv.org/list/cs.RO/03|Robotics
+https://arxiv.org/list/cs.SI/03|Social and Information Networks
+https://arxiv.org/list/cs.SE/03|Software Engineering
+https://arxiv.org/list/cs.SD/03|Sound
+https://arxiv.org/list/cs.SC/03|Symbolic Computation
+https://arxiv.org/list/cs.SY/03|Systems and Control
+https://arxiv.org/list/cs.AI/04|Artificial Intelligence
+https://arxiv.org/list/cs.CL/04|Computation and Language
+https://arxiv.org/list/cs.CC/04|Computational Complexity
+https://arxiv.org/list/cs.CE/04|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/04|Computational Geometry
+https://arxiv.org/list/cs.GT/04|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/04|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/04|Computers and Society
+https://arxiv.org/list/cs.CR/04|Cryptography and Security
+https://arxiv.org/list/cs.DS/04|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/04|Databases
+https://arxiv.org/list/cs.DL/04|Digital Libraries
+https://arxiv.org/list/cs.DM/04|Discrete Mathematics
+https://arxiv.org/list/cs.DC/04|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/04|Emerging Technologies
+https://arxiv.org/list/cs.FL/04|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/04|General Literature
+https://arxiv.org/list/cs.GR/04|Graphics
+https://arxiv.org/list/cs.AR/04|Hardware Architecture
+https://arxiv.org/list/cs.HC/04|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/04|Information Retrieval
+https://arxiv.org/list/cs.IT/04|Information Theory
+https://arxiv.org/list/cs.LO/04|Logic in Computer Science
+https://arxiv.org/list/cs.LG/04|Machine Learning
+https://arxiv.org/list/cs.MS/04|Mathematical Software
+https://arxiv.org/list/cs.MA/04|Multiagent Systems
+https://arxiv.org/list/cs.MM/04|Multimedia
+https://arxiv.org/list/cs.NI/04|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/04|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/04|Numerical Analysis
+https://arxiv.org/list/cs.OS/04|Operating Systems
+https://arxiv.org/list/cs.OH/04|Other Computer Science
+https://arxiv.org/list/cs.PF/04|Performance
+https://arxiv.org/list/cs.PL/04|Programming Languages
+https://arxiv.org/list/cs.RO/04|Robotics
+https://arxiv.org/list/cs.SI/04|Social and Information Networks
+https://arxiv.org/list/cs.SE/04|Software Engineering
+https://arxiv.org/list/cs.SD/04|Sound
+https://arxiv.org/list/cs.SC/04|Symbolic Computation
+https://arxiv.org/list/cs.SY/04|Systems and Control
+https://arxiv.org/list/cs.AI/05|Artificial Intelligence
+https://arxiv.org/list/cs.CL/05|Computation and Language
+https://arxiv.org/list/cs.CC/05|Computational Complexity
+https://arxiv.org/list/cs.CE/05|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/05|Computational Geometry
+https://arxiv.org/list/cs.GT/05|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/05|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/05|Computers and Society
+https://arxiv.org/list/cs.CR/05|Cryptography and Security
+https://arxiv.org/list/cs.DS/05|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/05|Databases
+https://arxiv.org/list/cs.DL/05|Digital Libraries
+https://arxiv.org/list/cs.DM/05|Discrete Mathematics
+https://arxiv.org/list/cs.DC/05|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/05|Emerging Technologies
+https://arxiv.org/list/cs.FL/05|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/05|General Literature
+https://arxiv.org/list/cs.GR/05|Graphics
+https://arxiv.org/list/cs.AR/05|Hardware Architecture
+https://arxiv.org/list/cs.HC/05|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/05|Information Retrieval
+https://arxiv.org/list/cs.IT/05|Information Theory
+https://arxiv.org/list/cs.LO/05|Logic in Computer Science
+https://arxiv.org/list/cs.LG/05|Machine Learning
+https://arxiv.org/list/cs.MS/05|Mathematical Software
+https://arxiv.org/list/cs.MA/05|Multiagent Systems
+https://arxiv.org/list/cs.MM/05|Multimedia
+https://arxiv.org/list/cs.NI/05|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/05|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/05|Numerical Analysis
+https://arxiv.org/list/cs.OS/05|Operating Systems
+https://arxiv.org/list/cs.OH/05|Other Computer Science
+https://arxiv.org/list/cs.PF/05|Performance
+https://arxiv.org/list/cs.PL/05|Programming Languages
+https://arxiv.org/list/cs.RO/05|Robotics
+https://arxiv.org/list/cs.SI/05|Social and Information Networks
+https://arxiv.org/list/cs.SE/05|Software Engineering
+https://arxiv.org/list/cs.SD/05|Sound
+https://arxiv.org/list/cs.SC/05|Symbolic Computation
+https://arxiv.org/list/cs.SY/05|Systems and Control
+https://arxiv.org/list/cs.AI/06|Artificial Intelligence
+https://arxiv.org/list/cs.CL/06|Computation and Language
+https://arxiv.org/list/cs.CC/06|Computational Complexity
+https://arxiv.org/list/cs.CE/06|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/06|Computational Geometry
+https://arxiv.org/list/cs.GT/06|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/06|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/06|Computers and Society
+https://arxiv.org/list/cs.CR/06|Cryptography and Security
+https://arxiv.org/list/cs.DS/06|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/06|Databases
+https://arxiv.org/list/cs.DL/06|Digital Libraries
+https://arxiv.org/list/cs.DM/06|Discrete Mathematics
+https://arxiv.org/list/cs.DC/06|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/06|Emerging Technologies
+https://arxiv.org/list/cs.FL/06|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/06|General Literature
+https://arxiv.org/list/cs.GR/06|Graphics
+https://arxiv.org/list/cs.AR/06|Hardware Architecture
+https://arxiv.org/list/cs.HC/06|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/06|Information Retrieval
+https://arxiv.org/list/cs.IT/06|Information Theory
+https://arxiv.org/list/cs.LO/06|Logic in Computer Science
+https://arxiv.org/list/cs.LG/06|Machine Learning
+https://arxiv.org/list/cs.MS/06|Mathematical Software
+https://arxiv.org/list/cs.MA/06|Multiagent Systems
+https://arxiv.org/list/cs.MM/06|Multimedia
+https://arxiv.org/list/cs.NI/06|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/06|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/06|Numerical Analysis
+https://arxiv.org/list/cs.OS/06|Operating Systems
+https://arxiv.org/list/cs.OH/06|Other Computer Science
+https://arxiv.org/list/cs.PF/06|Performance
+https://arxiv.org/list/cs.PL/06|Programming Languages
+https://arxiv.org/list/cs.RO/06|Robotics
+https://arxiv.org/list/cs.SI/06|Social and Information Networks
+https://arxiv.org/list/cs.SE/06|Software Engineering
+https://arxiv.org/list/cs.SD/06|Sound
+https://arxiv.org/list/cs.SC/06|Symbolic Computation
+https://arxiv.org/list/cs.SY/06|Systems and Control
+https://arxiv.org/list/cs.AI/07|Artificial Intelligence
+https://arxiv.org/list/cs.CL/07|Computation and Language
+https://arxiv.org/list/cs.CC/07|Computational Complexity
+https://arxiv.org/list/cs.CE/07|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/07|Computational Geometry
+https://arxiv.org/list/cs.GT/07|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/07|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/07|Computers and Society
+https://arxiv.org/list/cs.CR/07|Cryptography and Security
+https://arxiv.org/list/cs.DS/07|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/07|Databases
+https://arxiv.org/list/cs.DL/07|Digital Libraries
+https://arxiv.org/list/cs.DM/07|Discrete Mathematics
+https://arxiv.org/list/cs.DC/07|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/07|Emerging Technologies
+https://arxiv.org/list/cs.FL/07|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/07|General Literature
+https://arxiv.org/list/cs.GR/07|Graphics
+https://arxiv.org/list/cs.AR/07|Hardware Architecture
+https://arxiv.org/list/cs.HC/07|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/07|Information Retrieval
+https://arxiv.org/list/cs.IT/07|Information Theory
+https://arxiv.org/list/cs.LO/07|Logic in Computer Science
+https://arxiv.org/list/cs.LG/07|Machine Learning
+https://arxiv.org/list/cs.MS/07|Mathematical Software
+https://arxiv.org/list/cs.MA/07|Multiagent Systems
+https://arxiv.org/list/cs.MM/07|Multimedia
+https://arxiv.org/list/cs.NI/07|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/07|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/07|Numerical Analysis
+https://arxiv.org/list/cs.OS/07|Operating Systems
+https://arxiv.org/list/cs.OH/07|Other Computer Science
+https://arxiv.org/list/cs.PF/07|Performance
+https://arxiv.org/list/cs.PL/07|Programming Languages
+https://arxiv.org/list/cs.RO/07|Robotics
+https://arxiv.org/list/cs.SI/07|Social and Information Networks
+https://arxiv.org/list/cs.SE/07|Software Engineering
+https://arxiv.org/list/cs.SD/07|Sound
+https://arxiv.org/list/cs.SC/07|Symbolic Computation
+https://arxiv.org/list/cs.SY/07|Systems and Control
+https://arxiv.org/list/cs.AI/08|Artificial Intelligence
+https://arxiv.org/list/cs.CL/08|Computation and Language
+https://arxiv.org/list/cs.CC/08|Computational Complexity
+https://arxiv.org/list/cs.CE/08|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/08|Computational Geometry
+https://arxiv.org/list/cs.GT/08|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/08|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/08|Computers and Society
+https://arxiv.org/list/cs.CR/08|Cryptography and Security
+https://arxiv.org/list/cs.DS/08|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/08|Databases
+https://arxiv.org/list/cs.DL/08|Digital Libraries
+https://arxiv.org/list/cs.DM/08|Discrete Mathematics
+https://arxiv.org/list/cs.DC/08|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/08|Emerging Technologies
+https://arxiv.org/list/cs.FL/08|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/08|General Literature
+https://arxiv.org/list/cs.GR/08|Graphics
+https://arxiv.org/list/cs.AR/08|Hardware Architecture
+https://arxiv.org/list/cs.HC/08|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/08|Information Retrieval
+https://arxiv.org/list/cs.IT/08|Information Theory
+https://arxiv.org/list/cs.LO/08|Logic in Computer Science
+https://arxiv.org/list/cs.LG/08|Machine Learning
+https://arxiv.org/list/cs.MS/08|Mathematical Software
+https://arxiv.org/list/cs.MA/08|Multiagent Systems
+https://arxiv.org/list/cs.MM/08|Multimedia
+https://arxiv.org/list/cs.NI/08|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/08|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/08|Numerical Analysis
+https://arxiv.org/list/cs.OS/08|Operating Systems
+https://arxiv.org/list/cs.OH/08|Other Computer Science
+https://arxiv.org/list/cs.PF/08|Performance
+https://arxiv.org/list/cs.PL/08|Programming Languages
+https://arxiv.org/list/cs.RO/08|Robotics
+https://arxiv.org/list/cs.SI/08|Social and Information Networks
+https://arxiv.org/list/cs.SE/08|Software Engineering
+https://arxiv.org/list/cs.SD/08|Sound
+https://arxiv.org/list/cs.SC/08|Symbolic Computation
+https://arxiv.org/list/cs.SY/08|Systems and Control
+https://arxiv.org/list/cs.AI/09|Artificial Intelligence
+https://arxiv.org/list/cs.CL/09|Computation and Language
+https://arxiv.org/list/cs.CC/09|Computational Complexity
+https://arxiv.org/list/cs.CE/09|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/09|Computational Geometry
+https://arxiv.org/list/cs.GT/09|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/09|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/09|Computers and Society
+https://arxiv.org/list/cs.CR/09|Cryptography and Security
+https://arxiv.org/list/cs.DS/09|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/09|Databases
+https://arxiv.org/list/cs.DL/09|Digital Libraries
+https://arxiv.org/list/cs.DM/09|Discrete Mathematics
+https://arxiv.org/list/cs.DC/09|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/09|Emerging Technologies
+https://arxiv.org/list/cs.FL/09|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/09|General Literature
+https://arxiv.org/list/cs.GR/09|Graphics
+https://arxiv.org/list/cs.AR/09|Hardware Architecture
+https://arxiv.org/list/cs.HC/09|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/09|Information Retrieval
+https://arxiv.org/list/cs.IT/09|Information Theory
+https://arxiv.org/list/cs.LO/09|Logic in Computer Science
+https://arxiv.org/list/cs.LG/09|Machine Learning
+https://arxiv.org/list/cs.MS/09|Mathematical Software
+https://arxiv.org/list/cs.MA/09|Multiagent Systems
+https://arxiv.org/list/cs.MM/09|Multimedia
+https://arxiv.org/list/cs.NI/09|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/09|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/09|Numerical Analysis
+https://arxiv.org/list/cs.OS/09|Operating Systems
+https://arxiv.org/list/cs.OH/09|Other Computer Science
+https://arxiv.org/list/cs.PF/09|Performance
+https://arxiv.org/list/cs.PL/09|Programming Languages
+https://arxiv.org/list/cs.RO/09|Robotics
+https://arxiv.org/list/cs.SI/09|Social and Information Networks
+https://arxiv.org/list/cs.SE/09|Software Engineering
+https://arxiv.org/list/cs.SD/09|Sound
+https://arxiv.org/list/cs.SC/09|Symbolic Computation
+https://arxiv.org/list/cs.SY/09|Systems and Control
+https://arxiv.org/list/cs.AI/10|Artificial Intelligence
+https://arxiv.org/list/cs.CL/10|Computation and Language
+https://arxiv.org/list/cs.CC/10|Computational Complexity
+https://arxiv.org/list/cs.CE/10|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/10|Computational Geometry
+https://arxiv.org/list/cs.GT/10|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/10|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/10|Computers and Society
+https://arxiv.org/list/cs.CR/10|Cryptography and Security
+https://arxiv.org/list/cs.DS/10|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/10|Databases
+https://arxiv.org/list/cs.DL/10|Digital Libraries
+https://arxiv.org/list/cs.DM/10|Discrete Mathematics
+https://arxiv.org/list/cs.DC/10|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/10|Emerging Technologies
+https://arxiv.org/list/cs.FL/10|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/10|General Literature
+https://arxiv.org/list/cs.GR/10|Graphics
+https://arxiv.org/list/cs.AR/10|Hardware Architecture
+https://arxiv.org/list/cs.HC/10|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/10|Information Retrieval
+https://arxiv.org/list/cs.IT/10|Information Theory
+https://arxiv.org/list/cs.LO/10|Logic in Computer Science
+https://arxiv.org/list/cs.LG/10|Machine Learning
+https://arxiv.org/list/cs.MS/10|Mathematical Software
+https://arxiv.org/list/cs.MA/10|Multiagent Systems
+https://arxiv.org/list/cs.MM/10|Multimedia
+https://arxiv.org/list/cs.NI/10|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/10|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/10|Numerical Analysis
+https://arxiv.org/list/cs.OS/10|Operating Systems
+https://arxiv.org/list/cs.OH/10|Other Computer Science
+https://arxiv.org/list/cs.PF/10|Performance
+https://arxiv.org/list/cs.PL/10|Programming Languages
+https://arxiv.org/list/cs.RO/10|Robotics
+https://arxiv.org/list/cs.SI/10|Social and Information Networks
+https://arxiv.org/list/cs.SE/10|Software Engineering
+https://arxiv.org/list/cs.SD/10|Sound
+https://arxiv.org/list/cs.SC/10|Symbolic Computation
+https://arxiv.org/list/cs.SY/10|Systems and Control
+https://arxiv.org/list/cs.AI/11|Artificial Intelligence
+https://arxiv.org/list/cs.CL/11|Computation and Language
+https://arxiv.org/list/cs.CC/11|Computational Complexity
+https://arxiv.org/list/cs.CE/11|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/11|Computational Geometry
+https://arxiv.org/list/cs.GT/11|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/11|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/11|Computers and Society
+https://arxiv.org/list/cs.CR/11|Cryptography and Security
+https://arxiv.org/list/cs.DS/11|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/11|Databases
+https://arxiv.org/list/cs.DL/11|Digital Libraries
+https://arxiv.org/list/cs.DM/11|Discrete Mathematics
+https://arxiv.org/list/cs.DC/11|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/11|Emerging Technologies
+https://arxiv.org/list/cs.FL/11|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/11|General Literature
+https://arxiv.org/list/cs.GR/11|Graphics
+https://arxiv.org/list/cs.AR/11|Hardware Architecture
+https://arxiv.org/list/cs.HC/11|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/11|Information Retrieval
+https://arxiv.org/list/cs.IT/11|Information Theory
+https://arxiv.org/list/cs.LO/11|Logic in Computer Science
+https://arxiv.org/list/cs.LG/11|Machine Learning
+https://arxiv.org/list/cs.MS/11|Mathematical Software
+https://arxiv.org/list/cs.MA/11|Multiagent Systems
+https://arxiv.org/list/cs.MM/11|Multimedia
+https://arxiv.org/list/cs.NI/11|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/11|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/11|Numerical Analysis
+https://arxiv.org/list/cs.OS/11|Operating Systems
+https://arxiv.org/list/cs.OH/11|Other Computer Science
+https://arxiv.org/list/cs.PF/11|Performance
+https://arxiv.org/list/cs.PL/11|Programming Languages
+https://arxiv.org/list/cs.RO/11|Robotics
+https://arxiv.org/list/cs.SI/11|Social and Information Networks
+https://arxiv.org/list/cs.SE/11|Software Engineering
+https://arxiv.org/list/cs.SD/11|Sound
+https://arxiv.org/list/cs.SC/11|Symbolic Computation
+https://arxiv.org/list/cs.SY/11|Systems and Control
+https://arxiv.org/list/cs.AI/12|Artificial Intelligence
+https://arxiv.org/list/cs.CL/12|Computation and Language
+https://arxiv.org/list/cs.CC/12|Computational Complexity
+https://arxiv.org/list/cs.CE/12|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/12|Computational Geometry
+https://arxiv.org/list/cs.GT/12|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/12|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/12|Computers and Society
+https://arxiv.org/list/cs.CR/12|Cryptography and Security
+https://arxiv.org/list/cs.DS/12|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/12|Databases
+https://arxiv.org/list/cs.DL/12|Digital Libraries
+https://arxiv.org/list/cs.DM/12|Discrete Mathematics
+https://arxiv.org/list/cs.DC/12|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/12|Emerging Technologies
+https://arxiv.org/list/cs.FL/12|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/12|General Literature
+https://arxiv.org/list/cs.GR/12|Graphics
+https://arxiv.org/list/cs.AR/12|Hardware Architecture
+https://arxiv.org/list/cs.HC/12|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/12|Information Retrieval
+https://arxiv.org/list/cs.IT/12|Information Theory
+https://arxiv.org/list/cs.LO/12|Logic in Computer Science
+https://arxiv.org/list/cs.LG/12|Machine Learning
+https://arxiv.org/list/cs.MS/12|Mathematical Software
+https://arxiv.org/list/cs.MA/12|Multiagent Systems
+https://arxiv.org/list/cs.MM/12|Multimedia
+https://arxiv.org/list/cs.NI/12|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/12|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/12|Numerical Analysis
+https://arxiv.org/list/cs.OS/12|Operating Systems
+https://arxiv.org/list/cs.OH/12|Other Computer Science
+https://arxiv.org/list/cs.PF/12|Performance
+https://arxiv.org/list/cs.PL/12|Programming Languages
+https://arxiv.org/list/cs.RO/12|Robotics
+https://arxiv.org/list/cs.SI/12|Social and Information Networks
+https://arxiv.org/list/cs.SE/12|Software Engineering
+https://arxiv.org/list/cs.SD/12|Sound
+https://arxiv.org/list/cs.SC/12|Symbolic Computation
+https://arxiv.org/list/cs.SY/12|Systems and Control
+https://arxiv.org/list/cs.AI/13|Artificial Intelligence
+https://arxiv.org/list/cs.CL/13|Computation and Language
+https://arxiv.org/list/cs.CC/13|Computational Complexity
+https://arxiv.org/list/cs.CE/13|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/13|Computational Geometry
+https://arxiv.org/list/cs.GT/13|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/13|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/13|Computers and Society
+https://arxiv.org/list/cs.CR/13|Cryptography and Security
+https://arxiv.org/list/cs.DS/13|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/13|Databases
+https://arxiv.org/list/cs.DL/13|Digital Libraries
+https://arxiv.org/list/cs.DM/13|Discrete Mathematics
+https://arxiv.org/list/cs.DC/13|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/13|Emerging Technologies
+https://arxiv.org/list/cs.FL/13|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/13|General Literature
+https://arxiv.org/list/cs.GR/13|Graphics
+https://arxiv.org/list/cs.AR/13|Hardware Architecture
+https://arxiv.org/list/cs.HC/13|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/13|Information Retrieval
+https://arxiv.org/list/cs.IT/13|Information Theory
+https://arxiv.org/list/cs.LO/13|Logic in Computer Science
+https://arxiv.org/list/cs.LG/13|Machine Learning
+https://arxiv.org/list/cs.MS/13|Mathematical Software
+https://arxiv.org/list/cs.MA/13|Multiagent Systems
+https://arxiv.org/list/cs.MM/13|Multimedia
+https://arxiv.org/list/cs.NI/13|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/13|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/13|Numerical Analysis
+https://arxiv.org/list/cs.OS/13|Operating Systems
+https://arxiv.org/list/cs.OH/13|Other Computer Science
+https://arxiv.org/list/cs.PF/13|Performance
+https://arxiv.org/list/cs.PL/13|Programming Languages
+https://arxiv.org/list/cs.RO/13|Robotics
+https://arxiv.org/list/cs.SI/13|Social and Information Networks
+https://arxiv.org/list/cs.SE/13|Software Engineering
+https://arxiv.org/list/cs.SD/13|Sound
+https://arxiv.org/list/cs.SC/13|Symbolic Computation
+https://arxiv.org/list/cs.SY/13|Systems and Control
+https://arxiv.org/list/cs.AI/14|Artificial Intelligence
+https://arxiv.org/list/cs.CL/14|Computation and Language
+https://arxiv.org/list/cs.CC/14|Computational Complexity
+https://arxiv.org/list/cs.CE/14|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/14|Computational Geometry
+https://arxiv.org/list/cs.GT/14|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/14|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/14|Computers and Society
+https://arxiv.org/list/cs.CR/14|Cryptography and Security
+https://arxiv.org/list/cs.DS/14|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/14|Databases
+https://arxiv.org/list/cs.DL/14|Digital Libraries
+https://arxiv.org/list/cs.DM/14|Discrete Mathematics
+https://arxiv.org/list/cs.DC/14|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/14|Emerging Technologies
+https://arxiv.org/list/cs.FL/14|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/14|General Literature
+https://arxiv.org/list/cs.GR/14|Graphics
+https://arxiv.org/list/cs.AR/14|Hardware Architecture
+https://arxiv.org/list/cs.HC/14|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/14|Information Retrieval
+https://arxiv.org/list/cs.IT/14|Information Theory
+https://arxiv.org/list/cs.LO/14|Logic in Computer Science
+https://arxiv.org/list/cs.LG/14|Machine Learning
+https://arxiv.org/list/cs.MS/14|Mathematical Software
+https://arxiv.org/list/cs.MA/14|Multiagent Systems
+https://arxiv.org/list/cs.MM/14|Multimedia
+https://arxiv.org/list/cs.NI/14|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/14|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/14|Numerical Analysis
+https://arxiv.org/list/cs.OS/14|Operating Systems
+https://arxiv.org/list/cs.OH/14|Other Computer Science
+https://arxiv.org/list/cs.PF/14|Performance
+https://arxiv.org/list/cs.PL/14|Programming Languages
+https://arxiv.org/list/cs.RO/14|Robotics
+https://arxiv.org/list/cs.SI/14|Social and Information Networks
+https://arxiv.org/list/cs.SE/14|Software Engineering
+https://arxiv.org/list/cs.SD/14|Sound
+https://arxiv.org/list/cs.SC/14|Symbolic Computation
+https://arxiv.org/list/cs.SY/14|Systems and Control
+https://arxiv.org/list/cs.AI/15|Artificial Intelligence
+https://arxiv.org/list/cs.CL/15|Computation and Language
+https://arxiv.org/list/cs.CC/15|Computational Complexity
+https://arxiv.org/list/cs.CE/15|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/15|Computational Geometry
+https://arxiv.org/list/cs.GT/15|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/15|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/15|Computers and Society
+https://arxiv.org/list/cs.CR/15|Cryptography and Security
+https://arxiv.org/list/cs.DS/15|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/15|Databases
+https://arxiv.org/list/cs.DL/15|Digital Libraries
+https://arxiv.org/list/cs.DM/15|Discrete Mathematics
+https://arxiv.org/list/cs.DC/15|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/15|Emerging Technologies
+https://arxiv.org/list/cs.FL/15|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/15|General Literature
+https://arxiv.org/list/cs.GR/15|Graphics
+https://arxiv.org/list/cs.AR/15|Hardware Architecture
+https://arxiv.org/list/cs.HC/15|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/15|Information Retrieval
+https://arxiv.org/list/cs.IT/15|Information Theory
+https://arxiv.org/list/cs.LO/15|Logic in Computer Science
+https://arxiv.org/list/cs.LG/15|Machine Learning
+https://arxiv.org/list/cs.MS/15|Mathematical Software
+https://arxiv.org/list/cs.MA/15|Multiagent Systems
+https://arxiv.org/list/cs.MM/15|Multimedia
+https://arxiv.org/list/cs.NI/15|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/15|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/15|Numerical Analysis
+https://arxiv.org/list/cs.OS/15|Operating Systems
+https://arxiv.org/list/cs.OH/15|Other Computer Science
+https://arxiv.org/list/cs.PF/15|Performance
+https://arxiv.org/list/cs.PL/15|Programming Languages
+https://arxiv.org/list/cs.RO/15|Robotics
+https://arxiv.org/list/cs.SI/15|Social and Information Networks
+https://arxiv.org/list/cs.SE/15|Software Engineering
+https://arxiv.org/list/cs.SD/15|Sound
+https://arxiv.org/list/cs.SC/15|Symbolic Computation
+https://arxiv.org/list/cs.SY/15|Systems and Control
+https://arxiv.org/list/cs.AI/16|Artificial Intelligence
+https://arxiv.org/list/cs.CL/16|Computation and Language
+https://arxiv.org/list/cs.CC/16|Computational Complexity
+https://arxiv.org/list/cs.CE/16|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/16|Computational Geometry
+https://arxiv.org/list/cs.GT/16|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/16|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/16|Computers and Society
+https://arxiv.org/list/cs.CR/16|Cryptography and Security
+https://arxiv.org/list/cs.DS/16|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/16|Databases
+https://arxiv.org/list/cs.DL/16|Digital Libraries
+https://arxiv.org/list/cs.DM/16|Discrete Mathematics
+https://arxiv.org/list/cs.DC/16|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/16|Emerging Technologies
+https://arxiv.org/list/cs.FL/16|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/16|General Literature
+https://arxiv.org/list/cs.GR/16|Graphics
+https://arxiv.org/list/cs.AR/16|Hardware Architecture
+https://arxiv.org/list/cs.HC/16|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/16|Information Retrieval
+https://arxiv.org/list/cs.IT/16|Information Theory
+https://arxiv.org/list/cs.LO/16|Logic in Computer Science
+https://arxiv.org/list/cs.LG/16|Machine Learning
+https://arxiv.org/list/cs.MS/16|Mathematical Software
+https://arxiv.org/list/cs.MA/16|Multiagent Systems
+https://arxiv.org/list/cs.MM/16|Multimedia
+https://arxiv.org/list/cs.NI/16|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/16|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/16|Numerical Analysis
+https://arxiv.org/list/cs.OS/16|Operating Systems
+https://arxiv.org/list/cs.OH/16|Other Computer Science
+https://arxiv.org/list/cs.PF/16|Performance
+https://arxiv.org/list/cs.PL/16|Programming Languages
+https://arxiv.org/list/cs.RO/16|Robotics
+https://arxiv.org/list/cs.SI/16|Social and Information Networks
+https://arxiv.org/list/cs.SE/16|Software Engineering
+https://arxiv.org/list/cs.SD/16|Sound
+https://arxiv.org/list/cs.SC/16|Symbolic Computation
+https://arxiv.org/list/cs.SY/16|Systems and Control
+https://arxiv.org/list/cs.AI/17|Artificial Intelligence
+https://arxiv.org/list/cs.CL/17|Computation and Language
+https://arxiv.org/list/cs.CC/17|Computational Complexity
+https://arxiv.org/list/cs.CE/17|Computational Engineering, Finance, and Science
+https://arxiv.org/list/cs.CG/17|Computational Geometry
+https://arxiv.org/list/cs.GT/17|Computer Science and Game Theory
+https://arxiv.org/list/cs.CV/17|Computer Vision and Pattern Recognition
+https://arxiv.org/list/cs.CY/17|Computers and Society
+https://arxiv.org/list/cs.CR/17|Cryptography and Security
+https://arxiv.org/list/cs.DS/17|Data Structures and Algorithms
+https://arxiv.org/list/cs.DB/17|Databases
+https://arxiv.org/list/cs.DL/17|Digital Libraries
+https://arxiv.org/list/cs.DM/17|Discrete Mathematics
+https://arxiv.org/list/cs.DC/17|Distributed, Parallel, and Cluster Computing
+https://arxiv.org/list/cs.ET/17|Emerging Technologies
+https://arxiv.org/list/cs.FL/17|Formal Languages and Automata Theory
+https://arxiv.org/list/cs.GL/17|General Literature
+https://arxiv.org/list/cs.GR/17|Graphics
+https://arxiv.org/list/cs.AR/17|Hardware Architecture
+https://arxiv.org/list/cs.HC/17|Human-Computer Interaction
+https://arxiv.org/list/cs.IR/17|Information Retrieval
+https://arxiv.org/list/cs.IT/17|Information Theory
+https://arxiv.org/list/cs.LO/17|Logic in Computer Science
+https://arxiv.org/list/cs.LG/17|Machine Learning
+https://arxiv.org/list/cs.MS/17|Mathematical Software
+https://arxiv.org/list/cs.MA/17|Multiagent Systems
+https://arxiv.org/list/cs.MM/17|Multimedia
+https://arxiv.org/list/cs.NI/17|Networking and Internet Architecture
+https://arxiv.org/list/cs.NE/17|Neural and Evolutionary Computing
+https://arxiv.org/list/cs.NA/17|Numerical Analysis
+https://arxiv.org/list/cs.OS/17|Operating Systems
+https://arxiv.org/list/cs.OH/17|Other Computer Science
+https://arxiv.org/list/cs.PF/17|Performance
+https://arxiv.org/list/cs.PL/17|Programming Languages
+https://arxiv.org/list/cs.RO/17|Robotics
+https://arxiv.org/list/cs.SI/17|Social and Information Networks
+https://arxiv.org/list/cs.SE/17|Software Engineering
+https://arxiv.org/list/cs.SD/17|Sound
+https://arxiv.org/list/cs.SC/17|Symbolic Computation
+https://arxiv.org/list/cs.SY/17|Systems and Control
